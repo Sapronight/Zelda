@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>background.jpg</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>Triforce.ttf</file>
+    </qresource>
+    <qresource prefix="/level/sprites/background">
+        <file>iconZelda.png</file>
+        <file>wall.png</file>
+        <file>mountain.png</file>
+        <file>water0.png</file>
+        <file>grass_without_herbs.png</file>
+        <file>doors0.png</file>
+        <file>grass_Herbs.png</file>
+    </qresource>
+    <qresource prefix="/sprites/link">
+        <file>linkDown.png</file>
+        <file>linkLeft.png</file>
+        <file>linkRight.png</file>
+        <file>linkUp.png</file>
+    </qresource>
+    <qresource prefix="/sprites/ennemy">
+        <file>ennemi0.png</file>
+    </qresource>
+</RCC>
